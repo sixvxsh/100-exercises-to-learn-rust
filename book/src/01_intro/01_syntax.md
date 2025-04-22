@@ -35,7 +35,7 @@ In previous exercise, you saw the `greeting` function:
 // `fn` <function_name> ( <input params> ) -> <return_type> { <body> }
 fn greeting() -> &'static str {
     // TODO: fix me 👇
-    "I'm ready to __!"
+    "I'm ready to learn Rust!"
 }
 ```
 
